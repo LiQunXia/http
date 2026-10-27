@@ -1,3 +1,8 @@
+## Unreleased (ComiruAir)
+
+- Migrate Android to AGP 9 built-in Kotlin, retaining the Java/Kotlin 11 target.
+- Require Flutter 3.47 or later; retain 1.10.1 networking behavior and dependencies.
+
 ## 1.10.1
 
 * Fix a build failure when using Google Play Services with Android Gradle
